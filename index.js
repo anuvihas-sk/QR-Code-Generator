@@ -19,6 +19,7 @@ inquirer
       console.log("The file has been saved!");
     });
   })
+  
   .catch((error) => {
     if (error.isTtyError) {
       // Prompt couldn't be rendered in the current environment

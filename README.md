@@ -7,3 +7,4 @@ Initialize npm: In the terminal, run npm init to create a package.json file for 
                 Follow the prompts to configure it or use npm init -y
 Download the package: npm i inquirer qr-image
 Run: node index.js
+
