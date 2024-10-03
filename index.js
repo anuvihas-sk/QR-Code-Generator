@@ -3,6 +3,7 @@ import qr from "qr-image";
 import fs from "fs";
 
 inquirer
+  
   .prompt([
     {
       message: "Type in your URL: ",
